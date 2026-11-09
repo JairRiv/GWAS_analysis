@@ -1,0 +1,8 @@
+"0","library(snpStats)"
+"0","library(ggplot2)"
+"0",""
+"0","# Consistent look for all ggplot2 figures: minimal theme, light blue for single-variable plots, red for thresholds"
+"0","theme_set(theme_minimal())"
+"0","lightBlue <- ""lightblue"""
+"0","darkBlue <- ""#08519C"""
+"0","thresholdColour <- ""firebrick"""

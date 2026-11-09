@@ -1,0 +1,28 @@
+"0","if (!requireNamespace(""BiocManager"", quietly = TRUE))"
+"0","  install.packages(""BiocManager"")"
+"0","BiocManager::install(version = ""3.23"")"
+"1","Update all/some/none? [a/s/n]: "
+"0","a"
+"2","trying URL 'https://cloud.r-project.org/src/contrib/pls_2.9-0.tar.gz'
+"
+"2","trying URL 'https://cloud.r-project.org/src/contrib/future_1.82.0.tar.gz'
+"
+"2","trying URL 'https://cloud.r-project.org/src/contrib/openssl_2.5.0.tar.gz'
+"
+"2","trying URL 'https://cloud.r-project.org/src/contrib/otel_0.3.0.tar.gz'
+"
+"2","trying URL 'https://cloud.r-project.org/src/contrib/parallelly_1.50.0.tar.gz'
+"
+"2","trying URL 'https://cloud.r-project.org/src/contrib/Seurat_6.0.0.tar.gz'
+"
+"2","trying URL 'https://cloud.r-project.org/src/contrib/spatstat.utils_3.2-6.tar.gz'
+"
+"2","
+"
+"2",""
+"2","The downloaded source packages are in
+	‘/tmp/RtmpJ0VPm1/downloaded_packages’"
+"2",""
+"2","
+"
+"0","BiocManager::install(""snpStats"")"
